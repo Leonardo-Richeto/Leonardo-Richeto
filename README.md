@@ -22,4 +22,15 @@
 ---
 
 <h2>CONTATO:</h2>
-  <a href="https://wa.me/+5518997730639" target="_blank"><img alt="whatsapp" width="100" src="https://marcas-logos.net/wp-content/uploads/2020/03/WHATSAPP-LOGO.png"></a>
+<div>
+    <a title="WhatsApp" href="https://wa.me/+5518997730639" target="_blank"><img alt="Whatsapp" width="70" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"></a>
+    <a title="Instagram" href="www.instagram.com/leonardo.richeto" target="_blank"><img alt="Instagram" width="70" src="https://scdesign.org.br/wp-content/uploads/2021/04/icone-instagram-transparente-vazado.png"></a> 
+    <a title="LinkedIn" href="https://www.linkedin.com/in/leonardo-richeto-183a37215/" target="_blank"><img alt="LinkedIn" width="70" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
+    <a title="Outloot Mail" href="leonardo-richeto@hotmail.com" target="_blank"><img alt="Email" width="70" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg"</a>
+</div>
+
+
+
+
+
+

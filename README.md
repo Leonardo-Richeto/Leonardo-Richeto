@@ -1,10 +1,9 @@
 # Olá, sou o Leonardo Richeto.
-<br>
 
 <h2 style="text-align: center;">SOBRE MIM</h2>
 <p>- Sou funcioário público migrando para a área de tecnologia. 💻 📚</p>
 <p>- Cursando o ultimo ano de engenharia de software. 🎓</p>
-<p>- Pude aprender e aplicar conceitos em projetos particulares, veja o mais recente <a href="www.autodieta.com.br">clicando aqui</a>. 🍎</p>
+<p>- Pude aprender e aplicar conceitos em projetos particulares, veja o mais recente <a target="_blank" href="www.autodieta.com.br">clicando aqui</a>. 🍎</p>
 
 <br>
 
@@ -15,7 +14,6 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
@@ -23,10 +21,10 @@
 
 <br>
 
-<h2 style="text-align: center;">CONTATO</h2>
-<div align="center">
-    <a style="margin: 0 15px;" title="WhatsApp" href="https://wa.me/+5518997730639" target="_blank"><img alt="Whatsapp" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"></a>
-    <a style="margin: 0 20px;" title="Instagram" href="https://www.instagram.com/leonardo.richeto/" target="_blank"><img alt="Instagram" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"><a> 
-    <a style="margin: 0 20px;" title="LinkedIn" href="https://www.linkedin.com/in/leonardo-richeto-183a37215/" target="_blank"><img alt="LinkedIn" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
-    <a style="margin: 0 20px;" title="Outlook Mail" href="mailto:leonardo-richeto@hotmail.com" target="_blank"><img alt="Email" width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg"></a>
+<h2>CONTATO</h2>
+<div>
+    <a title="WhatsApp" href="https://wa.me/+5518997730639" target="_blank"><img alt="Whatsapp" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"></a>
+    <a title="Instagram" href="https://www.instagram.com/leonardo.richeto/" target="_blank"><img alt="Instagram" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"><a> 
+    <a title="LinkedIn" href="https://www.linkedin.com/in/leonardo-richeto-183a37215/" target="_blank"><img alt="LinkedIn" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
+    <a title="Outlook Mail" href="mailto:leonardo-richeto@hotmail.com" target="_blank"><img alt="Email" width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg"></a>
 </div>

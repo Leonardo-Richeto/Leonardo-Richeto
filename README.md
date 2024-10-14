@@ -3,7 +3,7 @@
 <h2 style="text-align: center;">SOBRE MIM</h2>
 <p>- Sou funcioário público migrando para a área de tecnologia. 💻 📚</p>
 <p>- Cursando o ultimo ano de engenharia de software. 🎓</p>
-<p>- Pude aprender e aplicar conceitos em projetos particulares, veja o mais recente <a target="_blank" href="www.autodieta.com.br">clicando aqui</a>. 🍎</p>
+<p>- Pude aprender e aplicar conceitos em projetos particulares, veja o mais recente em www.autodieta.com.br. 🍎</p>
 
 <br>
 

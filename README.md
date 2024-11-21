@@ -1,7 +1,6 @@
 # Olá, sou o Leonardo Richeto.
 
 <h2 style="text-align: center;">SOBRE MIM</h2>
-<p>- Sou funcioário público migrando para a área de tecnologia. 💻 📚</p>
 <p>- Cursando o ultimo ano de engenharia de software. 🎓</p>
 <p>- Pude aprender e aplicar conceitos em projetos particulares, veja o mais recente em www.autodieta.com.br. 🍎</p>
 

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="250" viewBox="0 0 860 250" role="img" aria-labelledby="t d">
+  <title id="t">Leonardo Richeto</title>
+  <desc id="d">Terminal: Leonardo Richeto, desenvolvedor full stack, Python e IA generativa.</desc>
+  <style>
+    .mono { font-family: "JetBrains Mono", "SFMono-Regular", Menlo, Consolas, monospace; font-size: 17px; }
+    .prompt { fill: #3fb950; }
+    .cmd { fill: #e6edf3; }
+    .out { fill: #8b949e; }
+    .destaque { fill: #58a6ff; font-weight: 700; }
+    /* Visível por padrão: sem suporte a animação, o texto aparece inteiro. */
+    .linha { animation: aparece 0.01s backwards; }
+    .l1 { animation-delay: 0.3s; } .l2 { animation-delay: 0.9s; }
+    .l3 { animation-delay: 1.6s; } .l4 { animation-delay: 2.2s; }
+    .l5 { animation-delay: 2.9s; } .l6 { animation-delay: 3.5s; }
+    .cursor { animation: pisca 1s steps(1) infinite; }
+    @keyframes aparece { from { opacity: 0; } to { opacity: 0; } }
+    @keyframes pisca { 50% { opacity: 0; } }
+  </style>
+  <rect x="1" y="1" width="858" height="248" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <path d="M1 11 a10 10 0 0 1 10 -10 h838 a10 10 0 0 1 10 10 v25 h-858 z" fill="#161b22"/>
+  <circle cx="22" cy="19" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="19" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="19" r="6" fill="#28c840"/>
+  <text x="430" y="24" text-anchor="middle" class="mono out" style="font-size:13px">leonardo@github: ~</text>
+
+  <text x="24" y="72" class="mono linha l1"><tspan class="prompt">$</tspan><tspan class="cmd"> whoami</tspan></text>
+  <text x="24" y="98" class="mono linha l2"><tspan class="destaque">Leonardo Richeto</tspan><tspan class="out"> · desenvolvedor full stack · python · ia generativa</tspan></text>
+  <text x="24" y="136" class="mono linha l3"><tspan class="prompt">$</tspan><tspan class="cmd"> cat foco.txt</tspan></text>
+  <text x="24" y="162" class="mono linha l4 out">APIs com FastAPI · agentes LLM com function calling · RAG · React + TypeScript</text>
+  <text x="24" y="200" class="mono linha l5"><tspan class="prompt">$</tspan><tspan class="cmd"> uptime</tspan></text>
+  <text x="24" y="226" class="mono linha l6 out">sistemas de ponta a ponta, do banco de dados ao deploy<tspan class="cmd cursor"> █</tspan></text>
+</svg>

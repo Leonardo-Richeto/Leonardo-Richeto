@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33335286/README.md)
 <p align="center">
   <img src="./terminal.svg" alt="Leonardo Richeto: desenvolvedor full stack, Python e IA generativa" width="100%">
 </p>

@@ -1,29 +1,46 @@
-# Olá, sou o Leonardo Richeto.
+[README.md](https://github.com/user-attachments/files/33335286/README.md)
+<p align="center">
+  <img src="./terminal.svg" alt="Leonardo Richeto: desenvolvedor full stack, Python e IA generativa" width="100%">
+</p>
 
-<h2 style="text-align: center;">SOBRE MIM</h2>
-<p>- Cursando o ultimo ano de engenharia de software. 🎓</p>
-<p>- Pude aprender e aplicar conceitos em projetos particulares, veja o mais recente em www.autodieta.com.br. 🍎</p>
+### `$ whoami`
 
-<br>
+Desenvolvedor Full Stack com foco em Python e IA generativa, formado em Engenharia de Software.
+Construo sistemas de ponta a ponta, do banco de dados ao deploy. Hoje sou Product Owner e
+desenvolvedor na Fábrica de Software da Polícia Militar do Estado de São Paulo (PMESP).
 
-<h2 style="text-align: center;">TECNOLOGIAS</h2>
-<div>
-    <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-</div>
+### `$ ls ~/projetos`
 
-<br>
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**NetAdmin**](https://github.com/Leonardo-Richeto/netadmin-pmesp) | Sistema web que gerencia os links de intranet de cerca de 2.100 unidades da PMESP. Unificou um fluxo antes dividido em 5 sistemas. Em produção desde jul/2026. | FastAPI · PostgreSQL · React 19 · TypeScript · Docker |
+| [**Agente de IA para WhatsApp**](https://github.com/Leonardo-Richeto/agente-ia-whatsapp) | Plataforma multiempresa em que um agente LLM com function calling e 19 ferramentas consulta o catálogo, monta pedidos e agenda horários. | FastAPI · OpenAI API · pgvector · Redis · React |
+| [**Auto Dieta**](https://github.com/Leonardo-Richeto/auto-dieta-api) | API REST de calorias, macronutrientes e dietas, com front-end em React (2024). | Node.js · Express · MySQL · React |
 
-<h2>CONTATO</h2>
-<div>
-    <a title="WhatsApp" href="https://wa.me/+5518997730639" target="_blank"><img alt="Whatsapp" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"></a>
-    <a title="Instagram" href="https://www.instagram.com/leonardo.richeto/" target="_blank"><img alt="Instagram" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"><a> 
-    <a title="LinkedIn" href="https://www.linkedin.com/in/leonardo-richeto-183a37215/" target="_blank"><img alt="LinkedIn" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
-    <a title="Outlook Mail" href="mailto:leonardo-richeto@hotmail.com" target="_blank"><img alt="Email" width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg"></a>
-</div>
+> O código do NetAdmin e do agente são privados.
+
+### `$ cat stack.txt`
+
+```text
+backend    Python · FastAPI · SQLAlchemy · Pydantic · Alembic · Node.js · Express
+ia         LLMs · OpenAI API · function calling · RAG · embeddings · pgvector · evals
+frontend   React · TypeScript · Vite · React Hook Form · Zod
+dados      PostgreSQL · Redis · MySQL
+devops     Docker · Docker Compose · Nginx · Linux · GitHub Actions
+testes     pytest · Testcontainers · Vitest · Testing Library
+```
+
+### `$ git log --oneline carreira`
+
+```text
+2026-08  Product Owner e desenvolvedor · Fábrica de Software, PMESP
+2026-07  NetAdmin entra em produção
+2025-03  Administração de Redes · Diretoria de TI (DTIC), PMESP
+2025     Bacharelado em Engenharia de Software · UniCesumar
+2012     Policial militar · PMESP
+```
+
+### `$ contato`
+
+[LinkedIn](https://www.linkedin.com/in/leonardo-richeto-183a37215) ·
+[leonardoricheto@gmail.com](mailto:leonardoricheto@gmail.com)

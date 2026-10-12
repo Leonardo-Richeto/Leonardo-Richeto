@@ -16,7 +16,7 @@ desenvolvedor na Fábrica de Software da Polícia Militar do Estado de São Paul
 | [**Agente de IA para WhatsApp**](https://github.com/Leonardo-Richeto/agente-ia-whatsapp) | Plataforma multiempresa em que um agente LLM com function calling e 19 ferramentas consulta o catálogo, monta pedidos e agenda horários. | FastAPI · OpenAI API · pgvector · Redis · React |
 | [**Auto Dieta**](https://github.com/Leonardo-Richeto/auto-dieta-api) | API REST de calorias, macronutrientes e dietas, com front-end em React (2024). | Node.js · Express · MySQL · React |
 
-> O código do NetAdmin e do agente são privados.
+> O código do NetAdmin e do agente é privado.
 
 ### `$ cat stack.txt`
 
